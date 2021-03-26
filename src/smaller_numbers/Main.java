@@ -1,6 +1,6 @@
 package smaller_numbers;
 
-public class Smaller_Nums {
+public class Main {
 
 	public static void main(String[] args) {
 		Smaller_Num small_num = new Smaller_Num();

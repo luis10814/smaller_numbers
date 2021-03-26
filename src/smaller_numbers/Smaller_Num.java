@@ -19,10 +19,6 @@ public class Smaller_Num {
 			counter = 0;
 		}
 		
-		for(int i = 0; i < solution.length; i++) {
-			System.out.println(solution[i]);
-		}
-		
 		return solution;
 	}
 }
